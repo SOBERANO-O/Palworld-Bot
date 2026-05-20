@@ -1,0 +1,2 @@
+# Palworld-Bot
+PALWORLD BOT é uma ferramenta automatizada para Palworld capaz de coletar recompensas e reiniciar expedições automaticamente. O sistema utiliza reconhecimento da interface do jogo para otimizar farms e reduzir tarefas repetitivas, contando com uma interface moderna e simples de usar. E apenas a 1° versão então pode ter erros e bugs
